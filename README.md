@@ -1,20 +1,9 @@
-# Docker Crash Course for Java Developers
+# Docker for Java Developers
 
 
 
 ## Learn Docker creating containers for Spring Boot APIs and Microservices
 
-Learn Docker Fundamentals? Yes.   Create Containers for Microservices? Yes.     Create Containers for Full Stack Applications? Yes. Of Course. Hands-on? Of course.
-
-Do you have ZERO experience with Docker? No Problem.
-
-Do you want to learn to create containers for Java Spring Boot Applications and Microservices using Docker with an easy to learn, step by step approach?
-
-Are you ready to learn about Docker and take the next step in your programming career?
-
-Do you want to join 300,000+ learners having Amazing Learning Experiences with in28Minutes?
-
-Look No Further!
 
 ## Getting Started
 - [Video - Spring in 10 Steps](https://www.youtube.com/watch?v=edgZo2g-LTM)
